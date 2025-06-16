@@ -14,6 +14,8 @@ Este proyecto simula el procesamiento en tiempo real de visualizaciones de pelí
 
 - Java 17
 
+ ![Screenshot from running application](img/architect.png?raw=true "Screenshot")
+
 ## Flujo:
 
 Una aplicación publica eventos JSON en Kafka bajo el tópico movies-topic.
