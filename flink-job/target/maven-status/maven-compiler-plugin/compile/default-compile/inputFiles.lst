@@ -1,0 +1,3 @@
+/home/luismgsa/workspace-mio/apache-flink/flink-job/src/main/java/com/example/flinkjob/entity/MovieEntity.java
+/home/luismgsa/workspace-mio/apache-flink/flink-job/src/main/java/com/example/flinkjob/dto/MovieEventDeserializer.java
+/home/luismgsa/workspace-mio/apache-flink/flink-job/src/main/java/com/example/flinkjob/FlinkJobApp.java

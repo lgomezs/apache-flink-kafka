@@ -1,0 +1,4 @@
+com/example/flinkjob/entity/MovieEntity.class
+com/example/flinkjob/FlinkJobApp.class
+com/example/flinkjob/FlinkJobApp$1.class
+com/example/flinkjob/dto/MovieEventDeserializer.class
